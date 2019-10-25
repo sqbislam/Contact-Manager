@@ -8,4 +8,4 @@ The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
 
-Live version at: https://sqbislam.github.io/sqb/contact-manager/  Home
+Live version at: https://contact-manager0.herokuapp.com/
